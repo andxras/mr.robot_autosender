@@ -2,7 +2,7 @@
 
 Based on Mr. Robot's episode 6 from season 1 "eps1.5_br4ve-trave1er.asf"
 
-[![Elliot Plans To Break Vera Out Of Jail | Mr. Robot](https://img.youtube.com/vi/21-5b_UJdJI/0.jpg)](https://www.youtube.com/watch?v=21-5b_UJdJI)
+[![Elliot Plans To Break Vera Out Of Jail | Mr. Robot](https://heavy.com/wp-content/uploads/2017/12/vera-season-1-pic-2.jpg?quality=100&strip=all)](https://www.youtube.com/watch?v=21-5b_UJdJI)
 
 
 ### Overview

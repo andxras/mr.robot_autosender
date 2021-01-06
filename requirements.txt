@@ -1,0 +1,11 @@
+APScheduler==3.6.3
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+python-decouple==3.4
+pytz==2020.5
+six==1.15.0
+tzlocal==2.1
+Werkzeug==1.0.1

@@ -3,7 +3,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from app import app,\
                 m_send
 
-timer: int = 5 #86400 # 24 horas
+timer: int = 86400 # 24 horas
 should_send: bool = False
 
 

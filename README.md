@@ -1,4 +1,4 @@
-# Data auto-sender
+# Autoleak
 
 Based on Mr. Robot's episode 6 from season 1 "eps1.5_br4ve-trave1er.asf"
 

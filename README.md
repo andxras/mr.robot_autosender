@@ -22,3 +22,5 @@ Make sure you enable less secure apps access at: https://myaccount.google.com/le
 pip install -r requirements.txt
 python run.py
 ```
+
+You now have 24 hours before the email is being sent. Go to http://localhost:5000/ping in order to cancel "Data Leakage".

@@ -7,7 +7,7 @@ Based on Mr. Robot's episode 6 from season 1 "eps1.5_br4ve-trave1er.asf"
 
 ### Overview
 
-This is a script that verifies there was contact with a user every 24 hours and sends an email simulating a data leak if there was no contact.
+This is a recreational script that verifies there was contact with a user every 24 hours and sends an email simulating a data leak if there was no contact.
 
 
 ### Setup
